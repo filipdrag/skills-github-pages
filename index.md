@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: šta je ovo index.md bošsačuvaj đe html!
 ---
